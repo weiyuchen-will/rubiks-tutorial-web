@@ -1,0 +1,1 @@
+import"./index-DBzIZFeK.js";var t=(t,n)=>{const r=t.__vccOpts||t;for(const[o,s]of n)r[o]=s;return r};function n(t,n){return"string"==typeof t?n:t}export{t as n,n as t};

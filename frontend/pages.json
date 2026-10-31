@@ -1,0 +1,175 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/home",
+      "style": {
+        "navigationBarTitleText": "魔方竞技场",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/tutorials/tutorials",
+      "style": {
+        "navigationBarTitleText": "教程视频库",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/practice/practice",
+      "style": {
+        "navigationBarTitleText": "练习计时",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/battle/battle",
+      "style": {
+        "navigationBarTitleText": "PK 对战",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "我的",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/shop/shop",
+      "style": {
+        "navigationBarTitleText": "金币商城",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/tutorial-detail/tutorial-detail",
+      "style": {
+        "navigationBarTitleText": "课程播放",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/formula-trainer/formula-trainer",
+      "style": {
+        "navigationBarTitleText": "公式训练",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/battle-room/battle-room",
+      "style": {
+        "navigationBarTitleText": "对战中",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/rankings/rankings",
+      "style": {
+        "navigationBarTitleText": "排行榜",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/learning-path/learning-path",
+      "style": {
+        "navigationBarTitleText": "学习路线",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/special-practice/special-practice",
+      "style": {
+        "navigationBarTitleText": "专项练习",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/solve-detail/solve-detail",
+      "style": {
+        "navigationBarTitleText": "成绩详情",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/battle-result/battle-result",
+      "style": {
+        "navigationBarTitleText": "对战结果",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/user-detail/user-detail",
+      "style": {
+        "navigationBarTitleText": "玩家主页",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/edit-profile/edit-profile",
+      "style": {
+        "navigationBarTitleText": "编辑资料",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/favorites/favorites",
+      "style": {
+        "navigationBarTitleText": "我的收藏",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/recent/recent",
+      "style": {
+        "navigationBarTitleText": "最近观看",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/mistakes/mistakes",
+      "style": {
+        "navigationBarTitleText": "错题本",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/records/records",
+      "style": {
+        "navigationBarTitleText": "成绩记录",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/settings/settings",
+      "style": {
+        "navigationBarTitleText": "账号设置",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/theme/theme",
+      "style": {
+        "navigationBarTitleText": "主题设置",
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/about/about",
+      "style": {
+        "navigationBarTitleText": "关于 App",
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "魔方竞技场",
+    "navigationBarBackgroundColor": "#020617",
+    "backgroundColor": "#020617",
+    "app-plus": {
+      "background": "#020617"
+    }
+  },
+  "uniIdRouter": {}
+}
